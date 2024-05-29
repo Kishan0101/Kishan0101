@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kishan Kumar Prajapati 👋
 
-<!--
-**Kishan0101/Kishan0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=Kishan0101&color=blue)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name:** Kishan Kumar Prajapati
+- **User ID:** Kishan0101
+- **Currently Learning:** Data Analyst
+- **Reach Me At:** [kishann.cpj@gmail.com](mailto:kishann.cpj@gmail.com)
+- **Domain Expertise:**
+  - Excel
+  - Power BI
+  - Tableau
+  - Python
+  - C/C++
+  - HTML
+  - CSS
+  - JavaScript
+
+## GitHub Stats
+
+![Kishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishan0101&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan0101&layout=compact&theme=radical)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kishan0101)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kishan0101)
